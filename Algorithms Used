@@ -1,0 +1,15 @@
+# Inventory Management System
+
+The system maintains a comprehensive inventory database with each item characterized by attributes such as **name**, **price**, **quantity**, **weight**, and **value**.
+
+### Binary Search:
+Utilized for swift lookups of items based on their names, ensuring efficient retrieval.
+
+### Merge Sort:
+Employed to showcase the inventory in a neatly sorted order, facilitating ease of access and management. Sorting can be done based on criteria such as **name**, **price**, or **quantity**.
+
+### Bellman-Ford Algorithm:
+Applied for determining the most cost-effective routes for delivering items to diverse locations within the warehouse. Particularly valuable when considering paths with negative weights or costs.
+
+### Knapsack Algorithm:
+Employs dynamic programming to optimize the selection of items for shipment, considering constraints such as **weight** and **value**.
